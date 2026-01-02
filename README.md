@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Raviroshan147&label=Profile%20views&color=0e75b6&style=flat" alt="Raviroshan147" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Raviroshan147" alt="Raviroshan147" /></a> </p>
+<p align="left"> <a href="https://github.com/Raviroshan147/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Raviroshan147" alt="Raviroshan147" /></a> </p>
 
 - 🌱 I’m currently learning **SQL Intermediate**
 
