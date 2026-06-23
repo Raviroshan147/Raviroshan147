@@ -124,3 +124,73 @@ Instead of standard flat spreadsheets, I have built a decoupled **Star Schema Re
 </p>
 
 ⚡ *Fun Fact: This entire cloud enterprise architecture portfolio was managed, engineered, and deployed utilizing smartphone protocols and edge-cloud computing!*
+---
+
+## 📁 Integrated Enterprise Project Portfolio (Sectors 1-7)
+
+Here is the complete catalog of individual pipelines implemented inside the **Enterprise Medallion Hub**. Click on any sector card below to explore its data model, source files, and SQL engines:
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📢 01. Digital Marketing Pipeline</h3>
+      <p>Automated multi-channel ad funnel analytics managing dynamic impressions, CTR%, and programmatic ROAS mapping.</p>
+      <a href="https://github.com/Raviroshan147/multi-sector-conglomerate-data-pipeline" target="_blank">
+        <img src="https://img.shields.io/badge/Explore_Repository-0078D4?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏥 02. Hospital Management Analytics</h3>
+      <p>Patient intake telemetry, dynamic billing engine, and TPA insurance claim liquidation optimization matrices.</p>
+      <a href="https://github.com/Raviroshan147/multi-sector-conglomerate-data-pipeline" target="_blank">
+        <img src="https://img.shields.io/badge/Explore_Repository-0078D4?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏫 03. School Academics & Fee Engine</h3>
+      <p>Data-driven student performance monitors mapping correlations between attendance % and critical exam failures.</p>
+      <a href="https://github.com/Raviroshan147/multi-sector-conglomerate-data-pipeline" target="_blank">
+        <img src="https://img.shields.io/badge/Explore_Repository-0078D4?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚖️ 04. CA Firm Operations Ledger</h3>
+      <p>Corporate B2B client service trackers integrating dynamic GST 18% filing cycles and invoice ageing buckets.</p>
+      <a href="https://github.com/Raviroshan147/multi-sector-conglomerate-data-pipeline" target="_blank">
+        <img src="https://img.shields.io/badge/Explore_Repository-0078D4?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🪵 05. Dhanbad Coal Trading Engine</h3>
+      <p>High-volume commercial commodity deal logs evaluating per-ton pure profit spreads across G4-G13 energy grades.</p>
+      <a href="https://github.com/Raviroshan147/multi-sector-conglomerate-data-pipeline" target="_blank">
+        <img src="https://img.shields.io/badge/Explore_Repository-0078D4?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚚 06. Coal Fleet Logistics Tracker</h3>
+      <p>RTO dumper tracking system managing payload weight leakages, route efficiencies, and diesel cost components.</p>
+      <a href="https://github.com/Raviroshan147/multi-sector-conglomerate-data-pipeline" target="_blank">
+        <img src="https://img.shields.io/badge/Explore_Repository-0078D4?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" width="100%" valign="top" align="center">
+      <h3>💊 ⭐ 07. Flagship Pharma Retail Network Engine</h3>
+      <p>Advanced Point-of-Sale logs with relational joins governing active shelf-expiry matrices and safety-stock inventory buffers.</p>
+      <a href="https://github.com/Raviroshan147/multi-sector-conglomerate-data-pipeline" target="_blank">
+        <img src="https://img.shields.io/badge/Explore_Flagship_Repository-2EA44F?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
