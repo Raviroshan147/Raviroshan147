@@ -1,23 +1,129 @@
-# ðŸ‘‹ Hi, I'm Ravi Roshan Kumar ðŸš€
-### Data Analyst | Business Intelligence Engineer | Freelancer
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Ravi Roshan Kumar
 
-![Data Analytics](https://img.shields.io/badge/Role-Data%20Analyst-blue?style=for-the-badge&logo=data-science)
-![Freelancer](https://img.shields.io/badge/Status-Freelancer%20%26%20Student-green?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-Dhanbad%2C%20India-orange?style=for-the-badge)
-
----
-
-## ðŸ› ï¸ Tech Stack & Core Competencies
-* **Languages & Scripting:** Python (Pandas, NumPy, Object-Oriented Pipelines), SQL (Advanced Queries, Window Functions)
-* **BI & Visualization:** Power BI (DAX, Power Query, Semantic Modeling), Microsoft Excel (Advanced Analytics)
-* **Cloud Infrastructure:** Google Cloud Platform (GCP - BigQuery, Cloud Storage)
-* **Data Architecture:** Star Schema Modeling (Fact & Dimension Layouts), Medallion Architecture (Bronze/Silver/Gold)
+<p align="left">
+  <img src="https://img.shields.io/badge/Role-Data%20Analyst-0078D4?style=for-the-badge&logo=data-science&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Freelancer%20%26%20Student-2EA44F?style=for-the-badge&logo=upwork&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Dhanbad%2C%20India-D97400?style=for-the-badge&logo=google-maps&logoColor=white" />
+</p>
 
 ---
 
-## ðŸ“‚ Flagship Portfolio Project: 7-Sector Enterprise Relational Pipeline
-I have engineered a production-grade data pipeline architecture simulating **1-Full Year (365 Days) of relational data across 7 diversified business sectors** under a unified conglomerate ecosystem. This project moves away from standard flat datasets to enforce strict relational integrity optimized for cloud warehouses and BI tools.
+### ðŸ’« About Me
+> *â€œTurning raw, decoupled data streams into high-fidelity business intelligence frameworks.â€*
 
+I am a forward-thinking **Data Analyst and Freelancer** focused on designing scalable cloud data architectures, relational modeling, and advanced business telemetry. I specialize in breaking down complex multi-sector organizational metrics into automated, optimization-ready analytics engines.
+
+---
+
+## ðŸ› ï¸ Tech Stack & Ecosystem
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>ðŸ§  Data Engineering & Languages</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>ðŸ“Š BI & Visualization</h4>
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
+      <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+      <img src="https://img.shields.io/badge/DAX_%26_Power_Query-0078D4?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>â˜ï¸ Cloud Infrastructure</h4>
+      <img src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/BigQuery-669DF2?style=flat-square&logo=google-cloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cloud_Storage-AECBFA?style=flat-square&logo=google-cloud&logoColor=black" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>âš¡ Architecture & Automation</h4>
+      <img src="https://img.shields.io/badge/Star_Schema-FF6F61?style=flat-square" />
+      <img src="https://img.shields.io/badge/Medallion_Architecture-008080?style=flat-square" />
+      <img src="https://img.shields.io/badge/n8n_Automation-FF6C37?style=flat-square&logo=n8n&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## ðŸš€ Flagship Architecture: The 7-Sector Enterprise Pipeline
+Instead of standard flat spreadsheets, I have built a decoupled **Star Schema Relational Framework** spanning a **365-day transactional horizon** across 7 diversified business verticals.
+
+### ðŸ“Š Tactical Data Discovery & Insights
+
+<table>
+  <thead>
+    <tr>
+      <th width="25%">ðŸ¢ Business Unit</th>
+      <th width="35%">ðŸ” Analytical Discovery</th>
+      <th width="40%">ðŸ’¡ Actionable Engineering Leverage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Digital Marketing Agency</b></td>
+      <td>Meta à¤”à¤° YouTube Ads à¤ªà¤° à¤µà¥€à¤•à¥‡à¤‚à¤¡à¥à¤¸ à¤•à¥‹ à¤Ÿà¥à¤°à¥ˆà¤«à¤¿à¤• 40% à¤¬à¥à¤¤à¤¾ à¤¹à¥ˆ, à¤²à¥‡à¤•à¤¿à¤¨ à¤¸à¤¬à¤¸à¥‡ à¤¬à¥‡à¤¸à¥à¤Ÿ Conversion Rate à¤”à¤° ROI LinkedIn à¤”à¤° Google Search Ads à¤¸à¥‡ à¤†à¤¤à¤¾ à¤¹à¥ˆà¥¤</td>
+      <td>à¤¬à¥à¤°à¤¾à¤‚à¤¡ à¤…à¤µà¥‡à¤¯à¤°à¤¨à¥‡à¤¸ à¤¬à¤œà¤Ÿ à¤•à¥‹ à¤µà¥€à¤•à¥‡à¤‚à¤¡à¥à¤¸ à¤•à¥‡ à¤¦à¥Œà¤°à¤¾à¤¨ Meta/YouTube à¤ªà¤° à¤¶à¤¿à¤«à¥à¤Ÿ à¤•à¤°à¥‡à¤‚, à¤œà¤¬à¤•à¤¿ à¤²à¥€à¤¡ à¤œà¤¨à¤°à¥‡à¤¶à¤¨ à¤¬à¤œà¤Ÿ à¤•à¥‹ Google Search à¤ªà¤° à¤²à¥‰à¤• à¤°à¤–à¥‡à¤‚à¥¤</td>
+    </tr>
+    <tr>
+      <td><b>Hospital Management</b></td>
+      <td>OPD à¤«à¥à¤Ÿà¤«à¥‰à¤² General Medicine à¤®à¥‡à¤‚ à¤¸à¤°à¥à¤µà¤¾à¤§à¤¿à¤• à¤¹à¥ˆ, à¤œà¤¬à¤•à¤¿ à¤¨à¥‡à¤Ÿ à¤•à¤®à¤°à¥à¤¶à¤¿à¤¯à¤² à¤°à¥‡à¤µà¥‡à¤¨à¥à¤¯à¥‚ à¤•à¤¾ 65% à¤¹à¤¿à¤¸à¥à¤¸à¤¾ Cardiology/Orthopedics IPD à¤¸à¤°à¥à¤œà¤¿à¤•à¤² à¤•à¥‡à¤¸à¥‡à¤œ à¤¸à¥‡ à¤†à¤¤à¤¾ à¤¹à¥ˆà¥¤</td>
+      <td>HDFC Ergo à¤”à¤° Star Health à¤¨à¥‡à¤Ÿà¤µà¤°à¥à¤• à¤•à¥‡ à¤²à¤¿à¤ à¤•à¥à¤²à¥‡à¤® à¤ªà¥à¤°à¥‹à¤¸à¥‡à¤¸ à¤¤à¥‡à¤œà¤¼ à¤•à¤°à¤¨à¥‡ à¤•à¥‡ à¤²à¤¿à¤ à¤à¤• à¤¡à¥‡à¤¡à¤¿à¤•à¥‡à¤Ÿà¥‡à¤¡ à¤Ÿà¥€à¤à¤šà¤ à¤¡à¥‡à¤¸à¥à¤• à¤¸à¥‡à¤Ÿà¤…à¤ª à¤•à¤°à¥‡à¤‚à¥¤</td>
+    </tr>
+    <tr>
+      <td><b>School Performance</b></td>
+      <td>Attendance Rate à¤”à¤° Exam Score à¤•à¥‡ à¤¬à¥€à¤š à¤®à¤œà¤¬à¥‚à¤¤ à¤¸à¥€à¤§à¤¾ à¤¸à¤‚à¤¬à¤‚à¤§ à¤¹à¥ˆà¥¤ 75% à¤¸à¥‡ à¤•à¤® à¤…à¤Ÿà¥‡à¤‚à¤¡à¥‡à¤‚à¤¸ à¤µà¤¾à¤²à¥‡ 30% à¤›à¤¾à¤¤à¥à¤° Math/Science à¤®à¥‡à¤‚ à¤—à¤‚à¤­à¥€à¤° à¤°à¥‚à¤ª à¤¸à¥‡ à¤ªà¤¿à¤›à¤¡à¤¼ à¤°à¤¹à¥‡ à¤¹à¥ˆà¤‚à¥¤</td>
+      <td>à¤•à¤® à¤…à¤Ÿà¥‡à¤‚à¤¡à¥‡à¤‚à¤¸ à¤µà¤¾à¤²à¥‡ à¤ªà¥ˆà¤°à¥‡à¤‚à¤Ÿà¥à¤¸ à¤•à¥‹ n8n à¤•à¥‡ à¤œà¤°à¤¿à¤ à¤‘à¤Ÿà¥‹à¤®à¥ˆà¤Ÿà¤¿à¤• à¤…à¤²à¤°à¥à¤Ÿ à¤Ÿà¥à¤°à¤¿à¤—à¤° à¤•à¤°à¥‡à¤‚ à¤¤à¤¾à¤•à¤¿ à¤à¤•à¥‡à¤¡à¤®à¤¿à¤• à¤ˆà¤¯à¤° à¤–à¤¤à¥à¤® à¤¹à¥‹à¤¨à¥‡ à¤¸à¥‡ à¤ªà¤¹à¤²à¥‡ 100% à¤°à¤¿à¤•à¤µà¤°à¥€ à¤¹à¥‹ à¤¸à¤•à¥‡à¥¤</td>
+    </tr>
+    <tr>
+      <td><b>CA Corporate Firm</b></td>
+      <td>Statutory Corporate Audit à¤¸à¤¬à¤¸à¥‡ à¤¹à¤¾à¤ˆ-à¤®à¤¾à¤°à¥à¤œà¤¿à¤¨ à¤¯à¥‚à¤¨à¤¿à¤Ÿ à¤¹à¥ˆ à¤²à¥‡à¤•à¤¿à¤¨ à¤‡à¤¸à¤•à¤¾ Turnaround Time (TAT) à¤¸à¤¬à¤¸à¥‡ à¤œà¥à¤¯à¤¾à¤¦à¤¾ (18-22 à¤¦à¤¿à¤¨) à¤¹à¥ˆ, à¤œà¤¿à¤¸à¤¸à¥‡ à¤‡à¤¨à¤µà¥‰à¤‡à¤¸ à¤ªà¥‡à¤‚à¤¡à¤¿à¤‚à¤— à¤°à¤¹à¤¤à¥‡ à¤¹à¥ˆà¤‚à¥¤</td>
+      <td>à¤‘à¤¡à¤¿à¤Ÿ à¤ªà¥€à¤• à¤¸à¥€à¤œà¤¨ à¤•à¥‡ à¤¦à¥Œà¤°à¤¾à¤¨ à¤•à¤°à¥à¤®à¤šà¤¾à¤°à¤¿à¤¯à¥‹à¤‚ à¤•à¥€ à¤¸à¤‚à¤–à¥à¤¯à¤¾ (Dynamic Staffing) à¤¬à¥à¤¾à¤à¤‚ à¤¤à¤¾à¤•à¤¿ TAT à¤•à¤® à¤¹à¥‹ à¤”à¤° à¤²à¥‡à¤Ÿ-à¤«à¥€à¤¸ à¤ªà¥‡à¤¨à¤²à¥à¤Ÿà¥€ à¤•à¤¾ à¤°à¤¿à¤¸à¥à¤• à¤–à¤¤à¥à¤® à¤¹à¥‹à¥¤</td>
+    </tr>
+    <tr>
+      <td><b>Coal Trading (Dhanbad)</b></td>
+      <td>G4 Grade (High CV) à¤•à¥‹à¤¯à¤²à¥‡ à¤®à¥‡à¤‚ à¤¸à¤¬à¤¸à¥‡ à¤œà¥à¤¯à¤¾à¤¦à¤¾ à¤ªà¥à¤°à¥‰à¤«à¤¿à¤Ÿ à¤®à¤¾à¤°à¥à¤œà¤¿à¤¨ (15-18%) à¤¹à¥ˆà¥¤ G11/G13 à¤—à¥à¤°à¥‡à¤¡ à¤•à¤¾ à¤µà¥‰à¤²à¥à¤¯à¥‚à¤® à¤œà¥à¤¯à¤¾à¤¦à¤¾ à¤¹à¥ˆ à¤ªà¤° â‚¹400/à¤Ÿà¤¨ à¤•à¥à¤²à¥€à¤¨ à¤à¤¨à¤°à¥à¤œà¥€ à¤¸à¥‡à¤¸ à¤•à¥‡ à¤•à¤¾à¤°à¤£ à¤®à¤¾à¤°à¥à¤œà¤¿à¤¨ à¤•à¤® à¤¹à¥ˆà¥¤</td>
+      <td>à¤®à¥à¤¨à¤¾à¤«à¥‡ à¤•à¥‹ à¤…à¤§à¤¿à¤•à¤¤à¤® à¤•à¤°à¤¨à¥‡ à¤•à¥‡ à¤²à¤¿à¤ à¤–à¤°à¥€à¤¦ à¤•à¤¾ 60% à¤¹à¤¿à¤¸à¥à¤¸à¤¾ à¤ªà¥à¤°à¥€à¤®à¤¿à¤¯à¤® G4/G7 à¤ˆ-à¤‘à¤•à¥à¤¶à¤¨ à¤²à¤¿à¤‚à¤•à¥‡à¤œ à¤•à¥€ à¤¤à¤°à¤« à¤¡à¤¾à¤‡à¤µà¤°à¥à¤Ÿ à¤•à¤°à¥‡à¤‚à¥¤</td>
+    </tr>
+    <tr>
+      <td><b>Coal Logistics Fleet</b></td>
+      <td>à¤•à¥à¤² à¤«à¥à¤°à¥‡à¤Ÿ à¤…à¤°à¥à¤¨à¤¿à¤‚à¤— à¤•à¤¾ 42-45% à¤¹à¤¿à¤¸à¥à¤¸à¤¾ à¤…à¤•à¥‡à¤²à¥‡ à¤¡à¥€à¤œà¤² à¤®à¥‡à¤‚ à¤¬à¤°à¥à¤¨ à¤¹à¥‹ à¤°à¤¹à¤¾ à¤¹à¥ˆà¥¤ Jharia à¤¸à¥‡ Bokaro à¤°à¥‚à¤Ÿ à¤ªà¤° à¤¸à¤¬à¤¸à¥‡ à¤œà¥à¤¯à¤¾à¤¦à¤¾ à¤°à¥‡à¤µà¥‡à¤¨à¥à¤¯à¥‚ à¤¹à¥ˆ à¤ªà¤° à¤µà¤œà¤¨ à¤¶à¥‰à¤°à¥à¤Ÿà¥‡à¤œ à¤ªà¥‡à¤¨à¤²à¥à¤Ÿà¥€ à¤­à¥€ à¤‰à¤šà¥à¤šà¤¤à¤® à¤¹à¥ˆà¥¤</td>
+      <td>à¤¡à¥€à¤œà¤² à¤šà¥‹à¤°à¥€ à¤°à¥‹à¤•à¤¨à¥‡ à¤•à¥‡ à¤²à¤¿à¤ à¤Ÿà¥à¤°à¤•à¥‹à¤‚ à¤®à¥‡à¤‚ GPS à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤«à¥à¤¯à¥‚à¤² à¤®à¥‰à¤¨à¤¿à¤Ÿà¤°à¤¿à¤‚à¤— à¤²à¤—à¤¾à¤à¤‚ à¤”à¤° à¤²à¥‹à¤¡à¤¿à¤‚à¤— à¤ªà¥‰à¤‡à¤‚à¤Ÿ à¤ªà¤° à¤µà¥‡à¤¬à¥à¤°à¤¿à¤œ à¤•à¥€ à¤¨à¤¿à¤—à¤°à¤¾à¤¨à¥€ à¤•à¤¡à¤¼à¥€ à¤•à¤°à¥‡à¤‚à¥¤</td>
+    </tr>
+    <tr>
+      <td><b>Pharma Retail Operations</b></td>
+      <td>Cetirizine à¤”à¤° Dolo à¤•à¥€ à¤¬à¤¿à¤•à¥à¤°à¥€ à¤¸à¤°à¥à¤¦à¤¿à¤¯à¥‹à¤‚ à¤”à¤° à¤®à¤¾à¤¨à¤¸à¥‚à¤¨ à¤®à¥‡à¤‚ à¤¦à¥‹à¤—à¥à¤¨à¥€ à¤¹à¥‹ à¤œà¤¾à¤¤à¥€ à¤¹à¥ˆà¥¤ Metformin à¤œà¥ˆà¤¸à¥€ à¤•à¥à¤°à¥‰à¤¨à¤¿à¤• à¤¦à¤µà¤¾à¤à¤‚ à¤¸à¥à¤Ÿà¥‹à¤° à¤•à¤¾ 40% 'Repeat Revenue' à¤œà¥‡à¤¨à¤°à¥‡à¤Ÿ à¤•à¤°à¤¤à¥€ à¤¹à¥ˆà¤‚à¥¤</td>
+      <td>60 à¤¦à¤¿à¤¨à¥‹à¤‚ à¤®à¥‡à¤‚ à¤à¤•à¥à¤¸à¤ªà¤¾à¤¯à¤° à¤¹à¥‹à¤¨à¥‡ à¤µà¤¾à¤²à¥‡ à¤¸à¥à¤Ÿà¥‰à¤• à¤ªà¤° à¤•à¥à¤°à¥‰à¤¨à¤¿à¤• à¤•à¥‡à¤¯à¤° à¤—à¥à¤°à¤¾à¤¹à¤•à¥‹à¤‚ à¤•à¥‹ 8% à¤¡à¤¿à¤¸à¥à¤•à¤¾à¤‰à¤‚à¤Ÿ à¤¦à¥‡à¤•à¤° à¤¤à¥à¤°à¤‚à¤¤ à¤•à¥à¤²à¤¿à¤¯à¤° à¤•à¤°à¥‡à¤‚ à¤”à¤° à¤¸à¥€à¤œà¤¨à¤² à¤¸à¥à¤Ÿà¥‰à¤• 15 à¤¦à¤¿à¤¨ à¤ªà¤¹à¤²à¥‡ à¤¬à¤«à¤° à¤®à¥‡à¤‚ à¤²à¥‡à¤‚à¥¤</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+## ðŸ“ˆ GitHub Metrics & Analytics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raviroshan147&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raviroshan147&theme=tokyonight&hide_border=true" height="180em" />
+</p>
+
+---
+
+## ðŸ¤ Let's Connect & Collaborate
+<p align="left">
+  <a href="https://linkedin.com/in/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+âš¡ *Fun Fact: This entire cloud enterprise architecture portfolio was managed, engineered, and deployed utilizing smartphone protocols and edge-cloud computing!*
 Here is the exhaustive business discovery and analytical report across all 7 operational divisions:
 
 ### 1. Digital Marketing Agency Engine
